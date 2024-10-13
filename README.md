@@ -4,7 +4,7 @@
 
 <details open> <summary> Education:</summary>
 
-- BSc in Mathematics, Universidad De Guanajuato.
+- BSc in Mathematics, Universidad De Guanajuato (2025)
   
 </details>
 
