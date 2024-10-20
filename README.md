@@ -1,6 +1,7 @@
-## Lesly Anda
+## Hi there! I´m Lesly 👋
 
 ### About Me
+I'm a passionate undergraduate mathematics student with a strong interest in Computer and Health Sciences. Always seeking for new opportunities to grow and enjoy ✨
 
 <details open> <summary> Education:</summary>
 
@@ -13,19 +14,17 @@
 - Professor Assistant at 
 - Data Analyst at Transmilenio S.A.
 </details>
--->
 
 <details >  <summary> Topics of Interest:</summary>
 
 - Machine Learning techniques and applications.
 - Image Processing Applications.
- 
+
+ -->
 </details>
 
----
-
 <!-- Tech Stack -->  
-<details>
+<details open>
   <summary><b> Skills and Technologies</b></summary>
     <p align="center">
 
@@ -42,10 +41,13 @@
   </p>
 </details>
 
-<!-- Contact -->
-<details>
-  <summary><b>💬 Contact Info</b></summary>
+---
 
+<!-- Contact -->
+  
+### 💬 Contact Info
+I'm always open for a good conversation or a fun project. Let's get in touch!!
+  
   <p align="center">
 <a href="https://www.linkedin.com/in/ndaless07/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/_ndaless/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
